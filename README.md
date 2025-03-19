@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @mshuaibalam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Mohd Shuaib Alam! 👋
 
-<!---
-mshuaibalam/mshuaibalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with a strong background in frontend development. I love building projects, exploring new technologies, and solving interesting problems.
+
+## Skills
+
+- **Languages:** JavaScript, C++, etc.
+- **Frameworks/Libraries:** Angular, React, Nextjs, Node.js, Express.js etc.
+- **Tools:** Git, VSCode, etc.
+- **Other:** Agile methodologies, Test-Driven Development, etc.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohd-shuaib-alam-b9b832222/)
+
+---
+
+Thanks for stopping by my profile! Feel free to explore my repositories and get in touch if you’d like to collaborate or just say hello! 😄
