@@ -12,7 +12,3 @@ I'm a passionate developer with a strong background in frontend development. I l
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohd-shuaib-alam-b9b832222/)
-
----
-
-Thanks for stopping by my profile! Feel free to explore my repositories and get in touch if you’d like to collaborate or just say hello! 😄
